@@ -11,3 +11,9 @@ python files
 
 ### Credits
 fir now i dont have any but hope to get some in the future
+
+### Machine learning
+The project wants to understand bikeshare use and prredict the likely future outcome
+
+### What is Machine learning
+Machine learning is new technique developed with the help of computers to understand complex data and make meaning out of them

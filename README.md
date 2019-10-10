@@ -1,15 +1,13 @@
 ### Date created
-Include the date you created this project and README file.
+Bikeshare project was created on 10/10/19
 
 ### Project Title
-Replace the Project Title
-
+Understanding US bikeshare data
 ### Description
-Describe what your project is about and what it does
-
+The project is attempting to understand the pattern of bike usage in 3 states and predict future pattern
 ### Files used
-Include the files used
+csv files
+python files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+fir now i dont have any but hope to get some in the future
